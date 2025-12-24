@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "ゴースト・タウン",
+  "base_artist": "Kanye West",
+  "createdAt": "2025-12-24T17:11:21.799217Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ゴースト・タウン",
+      "artist": "勝手にしやがれ",
+      "has_synced": false,
+      "path": "select/01_ゴースト・タウン_勝手にしやがれ.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Ghost Town",
+      "artist": "Kanye West",
+      "has_synced": false,
+      "path": "select/pl_01_Ghost_Town_Kanye_West.txt"
+    }
+  ]
+}
